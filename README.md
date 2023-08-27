@@ -1,2 +1,2 @@
 # Test-repo
-Ignore...Some tests and algorithm check
+Ignore...Just some minor tests and algorithm check.
